@@ -70,5 +70,3 @@ Logs are handled by `loguru` to meet the specific rotation requirements:
 ---
 
 *Author: Bohdan Pupkov*
-
-```
